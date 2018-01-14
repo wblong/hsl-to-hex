@@ -16,12 +16,15 @@
     "url": "https://github.com/wblong/hsl-to-hex/issues"
   },
   "homepage": "https://github.com/wblong/hsl-to-hex#readme",
-  "description": "",
+  "description": "Convert HSL colors to RGB colors in hex format.\r ## Install\r ```\r npm install --save @davidmark/hsl-to-hex",
   "dependencies": {
     "hsl-to-rgb-for-reals": "^1.1.0"
   },
   "devDependencies": {
     "standard": "^10.0.3",
     "tap": "^11.0.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }
