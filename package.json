@@ -1,12 +1,15 @@
 {
-  "name": "hsl-to-hex",
+  "name": "@wangbaolong/hsl-to-hex",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "npm run lint && tap --cov test",
     "lint": "standard"
   },
-  "author": " <wangbaolong>",
+  "author": {
+    "name":"wangbaolong",
+    "email":"mrbaolong@163.com"
+  },
   "license": "ISC",
   "repository": {
     "type": "git",
