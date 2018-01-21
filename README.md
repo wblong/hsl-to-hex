@@ -1,5 +1,6 @@
 # hsl-to-hex
-Convert HSL colors to RGB colors in hex format.
+Convert HSL colors to RGB colors in hex format. 
+HSL转换成RGB16进制
 ## Install
 ```
 npm install --save @wangbaolong/hsl-to-hex
