@@ -19,7 +19,7 @@
     "url": "https://github.com/wblong/hsl-to-hex/issues"
   },
   "homepage": "https://github.com/wblong/hsl-to-hex#readme",
-  "description": "Convert HSL colors to RGB colors in hex format.\r ## Install\r ```\r npm install --save @wblong/hsl-to-hex",
+  "description": "Convert HSL colors to RGB colors in hex format.\r ## Install\r ```\r npm install --save @wangbaolong/hsl-to-hex",
   "dependencies": {
     "hsl-to-rgb-for-reals": "^1.1.0"
   },
